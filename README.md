@@ -1,6 +1,6 @@
-# Tableau-Dashboard---Popular-Baby-Names
+# Tableau-Dashboard :  Popular-Baby-Names
 
-## Data Visualization : Popular Baby Names
+## Data Visualization  
 
 ### The Dashboard:
 
